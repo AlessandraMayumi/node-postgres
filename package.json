@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "pg": "^8.6.0",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^5.15.0"
+  },
+  "name": "sequelize",
+  "description": "https://sequelize.org/master/manual/getting-started.html",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
